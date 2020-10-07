@@ -1,2 +1,2 @@
 # Software-Development-1
-its software development
+first github repository
